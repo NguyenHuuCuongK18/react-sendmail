@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "userId":1,
+            "name": "John",
+            "email": "u1@gmail.com"
+        },
+        {
+            "id": 2,
+            "userId":2,
+            "name": "marry",
+            "email": "u2@gmail.com"
+        }
+    ],
+    "accounts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "password": "abc@123",
+            "activeCode": "ABCDEFXXX",
+            "isActive": false
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "password": "abc@123",
+            "activeCode": "",
+            "isActive": true
+        }
+    ]
+}
